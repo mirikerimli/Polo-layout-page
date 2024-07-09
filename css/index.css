@@ -423,7 +423,7 @@ section .container p {
 
 .increase {
   height: 50vh;
-  background: url(/images/javas.jpg);
+  background: url(./images/javas.jpg);
   background-attachment: fixed;
 }
 
